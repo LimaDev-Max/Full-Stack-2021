@@ -1,1 +1,1 @@
-.console.log(oii);  
+.console.log();  
