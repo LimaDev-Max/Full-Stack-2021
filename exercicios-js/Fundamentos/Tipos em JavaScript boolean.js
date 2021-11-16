@@ -1,1 +1,1 @@
-console.log(OIOIII);
+console.log();
