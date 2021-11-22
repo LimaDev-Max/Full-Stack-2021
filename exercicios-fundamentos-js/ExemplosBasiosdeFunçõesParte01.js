@@ -1,2 +1,1 @@
-//Função sem retorno 
-function impri
+console.log(oiii)
